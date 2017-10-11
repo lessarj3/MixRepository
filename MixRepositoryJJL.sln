@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixRepository", "MixRepository\MixRepository.csproj", "{C4FF5F6C-F40F-4532-842F-5A4BC8455D05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixRepository.Common", "MixRepository.Common\MixRepository.Common.csproj", "{5F367413-1621-4A50-BC72-ED8C2E33A0D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C4FF5F6C-F40F-4532-842F-5A4BC8455D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4FF5F6C-F40F-4532-842F-5A4BC8455D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4FF5F6C-F40F-4532-842F-5A4BC8455D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F367413-1621-4A50-BC72-ED8C2E33A0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F367413-1621-4A50-BC72-ED8C2E33A0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F367413-1621-4A50-BC72-ED8C2E33A0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F367413-1621-4A50-BC72-ED8C2E33A0D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
