@@ -1,3 +1,9 @@
+C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.csprojResolveAssemblyReference.cache
+C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.InitialCreate.resources
+C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.DecimalDataTypes.resources
+C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.RatiosColumnAdded.resources
+C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.ClassValidationAdded.resources
+C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.csproj.GenerateResource.Cache
 C:\VS15\MixRepository\MixRepository\bin\ApplicationInsights.config
 C:\VS15\MixRepository\MixRepository\bin\roslyn\csc.exe
 C:\VS15\MixRepository\MixRepository\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -77,10 +83,5 @@ C:\VS15\MixRepository\MixRepository\bin\Microsoft.Owin.Security.OAuth.xml
 C:\VS15\MixRepository\MixRepository\bin\Microsoft.Owin.Security.Google.xml
 C:\VS15\MixRepository\MixRepository\bin\Microsoft.Owin.Security.Twitter.xml
 C:\VS15\MixRepository\MixRepository\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.InitialCreate.resources
-C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.DecimalDataTypes.resources
-C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.RatiosColumnAdded.resources
-C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.ClassValidationAdded.resources
-C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.csproj.GenerateResource.Cache
 C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.dll
 C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.pdb
