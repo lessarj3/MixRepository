@@ -80,7 +80,7 @@ C:\VS15\MixRepository\MixRepository\bin\Microsoft.Owin.Security.MicrosoftAccount
 C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.InitialCreate.resources
 C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.DecimalDataTypes.resources
 C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.RatiosColumnAdded.resources
+C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.ClassValidationAdded.resources
 C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.csproj.GenerateResource.Cache
 C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.dll
 C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.pdb
-C:\VS15\MixRepository\MixRepository\obj\Debug\MixRepository.Migrations.ClassValidationAdded.resources
